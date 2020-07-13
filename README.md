@@ -1,4 +1,4 @@
-# apidoc
+# apidoc-plus
  基于[apidoc](https://github.com/apidoc/apidoc)添加了一些开发中很有用的功能.支持直接启动静态服务和api服务,支持mock.js  
  apidoc文档:[apidocjs.com](http://apidocjs.com)  
  mockjs文档:[mockjs.com](http://mockjs.com)
@@ -9,7 +9,7 @@
 3. http static server
 
 ### 安装方法
-> npm install -g git+https://github.com/anuger/apidoc.git
+> npm install -g git+https://github.com/anuger/apidoc-plus.git
 
 ### 使用(在apidoc原有参数上添加了以下参数)
 > apidoc -sm -p 3000 -i "扫描目录" -o "生成目录"  
